@@ -26,7 +26,7 @@ function criarPerfil(container) {
     nome.textContent = "Leticya Medeiros";
 
     var descricao = document.createElement('p');
-    descricao.textContent = "Estudante de Ciência da Computação apaixonada por Tecnologia"
+    descricao.textContent = "Estudante de Ciência da Computação apaixonada por tecnologia"
 
     perfilContainer.appendChild(foto);
     perfilContainer.appendChild(nome);

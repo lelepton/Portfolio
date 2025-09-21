@@ -131,8 +131,8 @@ main {
 }
 
 #img-container {
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
     border-radius: 50%;
     overflow: hidden;
     border: 4px solid transparent;
@@ -159,18 +159,19 @@ main {
 #conteudo-secundario aside p {
     color: var(--texto-secundario) ;
     text-align: center;
-    line-height: 1.5;
+    line-height: 1;
 }
 
 #informacoes {
     display: flex;
     flex-direction: column;
-    gap: 1.3rem;
+    gap: 1rem;
+    margin-top: 8px;
 }
 
 #informacoes i {
     color: var(--destaque-principal);
-    font-size: 1.3rem;
+    font-size: 1rem;
 }
 
 #informacoes a {
@@ -402,12 +403,13 @@ footer {
 
     .grid {
         grid-template-columns: 15px 350px 1fr 15px;
+        align-items: start;
     }
 
     #conteudo-secundario {
         position: sticky;
         top: 70px;
-        height: 650px;
+        height: 600px;
     }
 
     #conteudo-principal {

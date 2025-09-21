@@ -2,8 +2,8 @@
     --fundo-principal: #fafafa;
     --texto-principal: #1c1c1c;
     --texto-secundario: #333;
-    --destaque-principal: #6c4ad8;
-    --destaque-secundario: #9a7dff;
+    --destaque-principal: #318c6a;
+    --destaque-secundario: #53c098;
     --fundo-card: #fff;
     --branco: rgba(255, 255, 255, 0.8);
     --sombra: 0 6px 10px rgba(0, 0, 0, 0.3);
@@ -14,8 +14,8 @@
     --fundo-principal: #1E1E2F;       
     --texto-principal: #EAEAEA;       
     --texto-secundario: #CFCFCF;       
-    --destaque-principal: #5E7FFF;     
-    --destaque-secundario: #8AB0FF;    
+    --destaque-principal: #318c6a;     
+    --destaque-secundario: #197755;    
     --fundo-card: #2A2A3C;     
     --sombra-card: 0 2px 8px rgba(0, 0, 0, 0.5);  
 }

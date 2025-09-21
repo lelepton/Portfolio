@@ -173,6 +173,11 @@ main {
     font-size: 1.3rem;
 }
 
+#informacoes a {
+    text-decoration: none;
+    color: var(--texto-secundario);
+}
+
 #conteudo-principal {
     grid-row: 2 / 3;
     grid-column: 2 / 3;

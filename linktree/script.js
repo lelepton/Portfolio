@@ -18,12 +18,12 @@ function criarPerfil(container) {
     perfilContainer.classList.add('perfil');
 
     var foto = document.createElement('img');
-    foto.src = "./images/exemplo.png";
+    foto.src = "./images/perfil.png";
     foto.alt = "Foto de Perfil";
     foto.classList.add('foto-perfil');
 
     var nome = document.createElement('h1');
-    nome.textContent = "Júlia Amorim";
+    nome.textContent = "Leticya Medeiros";
 
     var descricao = document.createElement('p');
     descricao.textContent = "Estudante de Ciência da Computação apaixonada por Tecnologia"
